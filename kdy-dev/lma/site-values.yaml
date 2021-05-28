@@ -10,7 +10,7 @@ global:
   storageClassName: rbd
   repository: https://openinfradev.github.io/hanu-helm-repo/
   serviceScrapeInterval: 30s
-  defaultPassword: tmvmfls!00
+  defaultPassword: password
   defaultUser: taco
 
 charts:
