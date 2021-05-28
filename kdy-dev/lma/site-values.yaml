@@ -6,11 +6,11 @@ metadata:
 global:
   nodeSelector:
     taco-lma: enabled
-  clusterName: cluster.local
+  clusterName: cluster.hanakdy.com
   storageClassName: rbd
   repository: https://openinfradev.github.io/hanu-helm-repo/
   serviceScrapeInterval: 30s
-  defaultPassword: password
+  defaultPassword: tmvmfls!00
   defaultUser: taco
 
 charts:
